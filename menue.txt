@@ -16,3 +16,6 @@ Veggie Bowl 10 cal 5.89
 Burittos 500 cal 3.99
 Doner 400 cal  8.99
 Kebab 500 cal 9.99
+
+Steak 600call 13.99
+Sandwithc 400 call 4.99
